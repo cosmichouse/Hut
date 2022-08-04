@@ -2,8 +2,8 @@ Lets fill up this hut.
 Unlike the other tenement this is where we actually live.
 
 
-
-#### Requirements:
+ - clay water pot
+ - Mosquito Net
  - Door
  - clay water pot
  - poverty
