@@ -8,3 +8,4 @@ Unlike the other tenement this is where we actually live.
  - Door
  - clay water pot
  - poverty
+ - cancellation
