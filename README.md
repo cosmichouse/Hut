@@ -3,3 +3,4 @@ Unlike the other tenement this is where we actually live.
 
 
 - clay water pot
+- Mosquito Net
