@@ -10,3 +10,4 @@ Unlike the other tenement this is where we actually live.
  - poverty
  - food
  - cancellation
+ - bed
