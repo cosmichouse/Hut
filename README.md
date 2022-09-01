@@ -11,3 +11,4 @@ Unlike the other tenement this is where we actually live.
  - food
  - cancellation
  - bed
+ - bedsheet
